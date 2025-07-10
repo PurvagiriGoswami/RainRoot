@@ -80,7 +80,7 @@ export function WeatherHeader({ location, onLocationChange, onRefresh, isLoading
         <div className="flex items-center space-x-4">
           <div className="flex items-center space-x-2">
             <h1 className="text-2xl font-bold gradient-text text-shadow">
-              THE WEATHER FORECASTING SITE
+              Rain Root
             </h1>
             {/* <span className="text-lg font-light text-blue-200"></span> */}
           </div>
