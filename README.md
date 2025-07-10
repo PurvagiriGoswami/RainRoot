@@ -17,7 +17,7 @@ A modern, responsive weather web application built with Next.js and Tailwind CSS
 
 ## 🚀 Demo
 <!-- If deployed, add your Netlify/Vercel link here -->
-[Live Demo : https://rainroot.netlify.app/](#)
+[https://rainroot.netlify.app/](#)
 
 ---
 
