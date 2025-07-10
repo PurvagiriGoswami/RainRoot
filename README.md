@@ -34,10 +34,9 @@ A modern, responsive weather web application built with Next.js and Tailwind CSS
 <!-- Add screenshots to the /public directory and reference them here -->
 | Home Page | Forecast | Mobile View |
 |-----------|----------|-------------|
-| ![Home](<img width="1275" height="400" alt="Screenshot 2025-07-10 160729" src="https://github.com/user-attachments/assets/094f56fb-705f-41f4-853d-8183f868a535" />
-) | ![Forecast](<img width="653" height="223" alt="Screenshot 2025-07-10 160938" src="https://github.com/user-attachments/assets/f95d5e74-2be9-4da9-b49c-5968832ea001" />
-) | ![Mobile](![WhatsApp Image 2025-07-10 at 4 11 05 PM](https://github.com/user-attachments/assets/186bcfa0-de2f-4ab4-8248-68d3b3302b0a)
-) |
+| ![Home](<img width="1275" height="400" alt="Screenshot 2025-07-10 160729" src="https://github.com/user-attachments/assets/094f56fb-705f-41f4-853d-8183f868a535" />) 
+| ![Forecast](<img width="653" height="223" alt="Screenshot 2025-07-10 160938" src="https://github.com/user-attachments/assets/f95d5e74-2be9-4da9-b49c-5968832ea001" />) 
+| ![Mobile](![WhatsApp Image 2025-07-10 at 4 11 05 PM](https://github.com/user-attachments/assets/186bcfa0-de2f-4ab4-8248-68d3b3302b0a)) |
 
 ---
 
