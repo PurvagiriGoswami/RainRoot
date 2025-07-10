@@ -5,7 +5,7 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "The Weather Forecasting Site",
+  title: "Rain Root",
   description: "Made By Purvagiri Goswami",
 };
 
