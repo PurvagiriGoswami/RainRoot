@@ -88,13 +88,13 @@ export function WeatherHeader({ location, onLocationChange, onRefresh, isLoading
 
         <div className="flex items-center space-x-2 text-sm text-blue-200">
           <span>{new Date().toLocaleDateString('en-GB', {
-            year: 'numeric',
-            month: '2-digit', 
-            day: '2-digit'
+            day: '2-digit',
+            month: '2-digit',
+            year: 'numeric'
           })} {new Date().toLocaleTimeString('en-GB', {
             hour: '2-digit',
             minute: '2-digit'
-          })} GMT</span>
+          })} IST</span>
         </div>
       </div>
 
