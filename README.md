@@ -1,4 +1,4 @@
-# The Weather Site Final
+<img width="1275" height="400" alt="Screenshot 2025-07-10 160729" src="https://github.com/user-attachments/assets/524f6aeb-664e-4204-9d3b-4ed4472e4030" /># The Weather Site Final
 
 A modern, responsive weather web application built with Next.js and Tailwind CSS. Get real-time weather updates, hourly and weekly forecasts, and insightful weather analytics for any city worldwide.
 
@@ -34,7 +34,10 @@ A modern, responsive weather web application built with Next.js and Tailwind CSS
 <!-- Add screenshots to the /public directory and reference them here -->
 | Home Page | Forecast | Mobile View |
 |-----------|----------|-------------|
-| ![Home](public/screenshots/home.png) | ![Forecast](public/screenshots/forecast.png) | ![Mobile](public/screenshots/mobile.png) |
+| ![Home](<img width="1275" height="400" alt="Screenshot 2025-07-10 160729" src="https://github.com/user-attachments/assets/094f56fb-705f-41f4-853d-8183f868a535" />
+) | ![Forecast](<img width="653" height="223" alt="Screenshot 2025-07-10 160938" src="https://github.com/user-attachments/assets/f95d5e74-2be9-4da9-b49c-5968832ea001" />
+) | ![Mobile](![WhatsApp Image 2025-07-10 at 4 11 05 PM](https://github.com/user-attachments/assets/186bcfa0-de2f-4ab4-8248-68d3b3302b0a)
+) |
 
 ---
 
